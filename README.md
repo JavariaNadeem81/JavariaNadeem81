@@ -1,16 +1,13 @@
-## Hi there 👋
+ 👋 Hi, I’m @JavariaNadeem81
+👀 I’m interested in Python, real-world coding projects, problem-solving, and IT management and ML engineering.
+🌱 I’m currently learning Python and relative skills, and Git/GitHub while strengthening my coding fundamentals.
+💞️ I want to collaborate on beginner-friendly coding projects and real-world problem-solving tasks.
+📫 How to reach me: nadeemjavaria2@gmail.com
+🎯 Future Goals: **Become an IT Manager & ML Engineer.
+😄 Pronouns: She/Her
+⚡ Fun fact: I love structured learning, balancing basics with real-world projects, and solving coding challenges!
 
-<!--
-**JavariaNadeem81/JavariaNadeem81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**  
+- GitHub: [JavariaNadeem81](https://github.com/JavariaNadeem81)
