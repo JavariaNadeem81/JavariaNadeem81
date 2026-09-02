@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Javaria Nadeem  
 
-🤖 **Aspiring AI / Machine Learning Engineer | Data Science Enthusiast | Data Analyst**  
+ **📊 Data Scientist | 🤖 AI & Machine Learning Engineer | Data Analyst | Python Developer 🐍**  
 
 ---
 
@@ -9,7 +9,8 @@ I’m a BS-IT graduate with a strong foundation in **data science, machine learn
 I enjoy building intelligent solutions and transforming data into meaningful insights that support real-world decision-making.  
 
 Currently focused on:  
-- Machine Learning & AI fundamentals  
+- Machine Learning & AI fundamentals
+- Data science 
 - Data Analysis & Visualization  
 - Building real-world projects using Python  
 
@@ -17,7 +18,7 @@ Currently focused on:
 
 ## 🛠️ Tech Stack  
 - **Programming:** Python  
-- **Data Science:** Pandas, NumPy, EDA  
+- **Data Science:** Pandas, NumPy, Preprocessing, EDA,Visualisation 
 - **Machine Learning:** Scikit-learn (model building & evaluation)  
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Databases:** SQL  
@@ -26,7 +27,8 @@ Currently focused on:
 ---
 
 ## 📊 What I’m Working On  
-- Developing **machine learning projects** and intelligent applications  
+- Developing **machine learning projects** and intelligent applications
+- Working with data to uncover meaningful insights and build data-driven solutions for the future.
 - Creating **data-driven solutions and dashboards**  
 - Exploring **automation and real-world problem-solving with Python**  
 
